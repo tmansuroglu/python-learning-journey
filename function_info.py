@@ -1,0 +1,1 @@
+# assigning default value to a parameter is same as Javascript
